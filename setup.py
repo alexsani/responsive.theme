@@ -26,6 +26,7 @@ setup(name='responsive.theme',
       install_requires=[
         'setuptools',
         'plone.app.theming',
+        'plone.app.themingplugins',
         'collective.responsivetheme',
       ],
       extras_require={
