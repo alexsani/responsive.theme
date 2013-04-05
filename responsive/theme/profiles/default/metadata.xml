@@ -3,6 +3,5 @@
   <version>1.0.0</version>
   <dependencies>
     <dependency>profile-plone.app.theming:default</dependency>
-    <dependency>profile-collective.responsivetheme:default</dependency>
   </dependencies>
 </metadata>

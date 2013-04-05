@@ -27,7 +27,6 @@ setup(name='responsive.theme',
         'setuptools',
         'plone.app.theming',
         'plone.app.themingplugins',
-        'collective.responsivetheme',
       ],
       extras_require={
         'test': ['plone.app.testing',]
